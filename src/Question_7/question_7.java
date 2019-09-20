@@ -3,9 +3,6 @@ import java.util.*;
 
 public class question_7 {
     public static void main(String[] args) {
-        List<Integer> listA = new LinkedList<>();
-        List<Integer> listOfIndex = new LinkedList<>();
-        List<Integer> listofIndexWithShift = new LinkedList<>();
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
         System.out.print("Enter the size of array n1: ");
